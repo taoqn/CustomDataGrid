@@ -1,0 +1,32 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:formdata="clr-namespace:WpfApp1"
+        xmlns:ComponentCustom="clr-namespace:WpfApp1" WindowState="Maximized"
+        mc:Ignorable="d" WindowStartupLocation="CenterScreen">
+    <Window.DataContext>
+        <formdata:FormSuaNhomXetNghiem />
+    </Window.DataContext>
+    <ComponentCustom:CustomDataGrid ItemsSource="{Binding OrdersInfos}" IsReadOnly="True" AutoGenerateColumns="False">
+        <ComponentCustom:CustomDataGrid.Columns>
+            <ComponentCustom:CustomDataGridTextColumn Binding="{Binding Path=OrderID}" Header="STT"/>
+            <ComponentCustom:CustomDataGridTextColumn Binding="{Binding Path=CustomerID}" Header="CustomerID"/>
+            <ComponentCustom:CustomDataGridTextColumn Binding="{Binding Path=EmployeeID}" Header="EmployeeID"/>
+        </ComponentCustom:CustomDataGrid.Columns>
+        <ComponentCustom:CustomDataGrid.DetailsViewDefinition>
+            <ComponentCustom:GridViewDefinition RelationalColumn="OrderDetails">
+                <ComponentCustom:GridViewDefinition.DataGrid>
+                    <ComponentCustom:CustomDataGrid IsReadOnly="True" AutoGenerateColumns="False">
+                        <DataGrid.Columns>
+                            <ComponentCustom:CustomDataGridTextColumn Binding="{Binding Path=OrderID}" Header="ID"/>
+                            <ComponentCustom:CustomDataGridTextColumn Binding="{Binding Path=OrderID}" Header="OrderID"/>
+                            <ComponentCustom:CustomDataGridTextColumn Binding="{Binding Path=ProductID}" Header="ProductID"/>
+                        </DataGrid.Columns>
+                    </ComponentCustom:CustomDataGrid>
+                </ComponentCustom:GridViewDefinition.DataGrid>
+            </ComponentCustom:GridViewDefinition>
+        </ComponentCustom:CustomDataGrid.DetailsViewDefinition>
+    </ComponentCustom:CustomDataGrid>
+</Window>

@@ -1,0 +1,60 @@
+C:\Users\nutha\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\nutha\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\nutha\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\nutha\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\nutha\source\repos\WpfApp1\WpfApp1\obj\Debug\CustomDataGrid.g.cs
+C:\Users\nutha\source\repos\WpfApp1\WpfApp1\obj\Debug\CustomDataGridTextColumn.g.cs
+C:\Users\nutha\source\repos\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\nutha\source\repos\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\nutha\source\repos\WpfApp1\WpfApp1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\nutha\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\nutha\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\nutha\source\repos\WpfApp1\WpfApp1\obj\Debug\CustomDataGrid.baml
+C:\Users\nutha\source\repos\WpfApp1\WpfApp1\obj\Debug\CustomDataGridTextColumn.baml
+C:\Users\nutha\source\repos\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\nutha\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\nutha\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\nutha\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\nutha\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\nutha\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\nutha\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Dinh Tao\Desktop\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Dinh Tao\Desktop\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Dinh Tao\Desktop\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Dinh Tao\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\Dinh Tao\Desktop\WpfApp1\WpfApp1\obj\Debug\CustomDataGrid.g.cs
+C:\Users\Dinh Tao\Desktop\WpfApp1\WpfApp1\obj\Debug\CustomDataGridTextColumn.g.cs
+C:\Users\Dinh Tao\Desktop\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Dinh Tao\Desktop\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Dinh Tao\Desktop\WpfApp1\WpfApp1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Dinh Tao\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Dinh Tao\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Dinh Tao\Desktop\WpfApp1\WpfApp1\obj\Debug\CustomDataGrid.baml
+C:\Users\Dinh Tao\Desktop\WpfApp1\WpfApp1\obj\Debug\CustomDataGridTextColumn.baml
+C:\Users\Dinh Tao\Desktop\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Dinh Tao\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Dinh Tao\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Dinh Tao\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Dinh Tao\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Dinh Tao\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Dinh Tao\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\nutha\Desktop\WpfApp1\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\nutha\Desktop\WpfApp1\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\nutha\Desktop\WpfApp1\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\nutha\Desktop\WpfApp1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\nutha\Desktop\WpfApp1\WpfApp1\WpfApp1\obj\Debug\CustomDataGrid.baml
+C:\Users\nutha\Desktop\WpfApp1\WpfApp1\WpfApp1\obj\Debug\CustomDataGrid.g.cs
+C:\Users\nutha\Desktop\WpfApp1\WpfApp1\WpfApp1\obj\Debug\CustomDataGridTextColumn.g.cs
+C:\Users\nutha\Desktop\WpfApp1\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\nutha\Desktop\WpfApp1\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\nutha\Desktop\WpfApp1\WpfApp1\WpfApp1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\nutha\Desktop\WpfApp1\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\nutha\Desktop\WpfApp1\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\nutha\Desktop\WpfApp1\WpfApp1\WpfApp1\obj\Debug\CustomDataGridTextColumn.baml
+C:\Users\nutha\Desktop\WpfApp1\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\nutha\Desktop\WpfApp1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\nutha\Desktop\WpfApp1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\nutha\Desktop\WpfApp1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\nutha\Desktop\WpfApp1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\nutha\Desktop\WpfApp1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\nutha\Desktop\WpfApp1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
